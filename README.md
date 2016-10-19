@@ -26,15 +26,46 @@
 ### Great site
 - [Combadi](http://combadi.com/)
 
+### UI Kit
+- [Baianat](https://www.baianat.com/resources/)
+- [DesignModo](http://designmodo.com/)
+  - [Square UI Kit](http://designmodo.com/square-free/)
+- [Travler](http://blazrobar.com/free-psd-website-templates/free-psd-webdesign-travler/)
+- [Patterns Background](http://www.webdesigndev.com/perfect-patterns-backgrounds/)
+- [Mobile Kit](http://www.smashingapps.com/2014/07/16/38-free-web-mobile-ui-kits-and-wireframe-templates.html)
+- InVision
+  - [Now](https://www.invisionapp.com/now)
+  - [Relate](https://www.invisionapp.com/relate)
+  - [Do](https://www.invisionapp.com/do)
+  - [Tethr](https://www.invisionapp.com/tethr)
+  - [Chat](https://www.invisionapp.com/chat)
+- [Bootstrap 4 UI](http://www.sketchappsources.com/free-source/1768-bootstrap-v4-ui-kit-sketch-freebie-resource.html) - `Sketch`
+- [Android N Ui](http://www.developertown.com/android-n-ui-kit-sketch/) - `Sketch`
+
+### Colors
+- [Flat UI Colors](http://flatuicolors.com/)
+- [Brand colors](https://brandcolors.net/)
+
 ### Fonts
-- [Font Awesome](http://fontawesome.io/) [All SVG](https://github.com/encharm/Font-Awesome-SVG-PNG/tree/master/black/svg)
+- [Font Awesome](http://fontawesome.io/) - See [All SVG](https://github.com/encharm/Font-Awesome-SVG-PNG/tree/master/black/svg)
 - [Fontello](http://fontello.com/)
 - [Glyphicons](http://glyphicons.com/)
-- [Elusive Icons](http://elusiveicons.com/) - [All SVG](https://github.com/reduxframework/elusive-icons/tree/master/dev/icons-svg)
+- [Elusive Icons](http://elusiveicons.com/) - See [All SVG](https://github.com/reduxframework/elusive-icons/tree/master/dev/icons-svg)
+
+- [Awwwards GFonts](http://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html) - 20 Best Web Fonts from Google Web Fonts and @font-face
+
+### Inspiration
+- [Eduardo Santos](https://dribbble.com/eduardo) - `Dribbble`
+- [Anton Aheichanka](https://dribbble.com/madebyanton) - `Dribbble`
 
 ### Tools
 - [Android Design](https://developer.android.com/design/downloads/index.html)
 - [Material Design](https://material.google.com/)
+- Photoshop
+  - [FontAwesomePS](http://creativedo.co/FontAwesomePS)
+  - [GuideGuide](http://guideguide.me/) - Grid
+  - [SplashHolder](http://splasholder.pixoil.com/) - From Unsplash
+
 
 ## PHP
 - [20 Awesome Libraries - Summer 2k16](http://tutorialzine.com/2016/08/20-awesome-php-libraries-for-summer-2016/) - tutorialzine
@@ -113,3 +144,5 @@
 @Todo :
 https://github.com/CodeTheory/__gulp4-postcss-example
 https://web.archive.org/web/20160303144445/http://www.utexas.edu/learn/designprocess/
+http://flatuicolors.com/
+https://brandcolors.net/
