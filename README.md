@@ -19,9 +19,22 @@
 - []()
 
 ### Studios
-- [Waaark](http://waaark.com/fr/) - French
+- [Waaark](http://waaark.com/fr/) - FR
 - [Studio Dot](http://www.studio-dot.fr/) - H P2015
+- [Pixel Lab](http://thinkpixellab.com/) - US
 
+### Great site
+- [Combadi](http://combadi.com/)
+
+### Fonts
+- [Font Awesome](http://fontawesome.io/) [All SVG](https://github.com/encharm/Font-Awesome-SVG-PNG/tree/master/black/svg)
+- [Fontello](http://fontello.com/)
+- [Glyphicons](http://glyphicons.com/)
+- [Elusive Icons](http://elusiveicons.com/) - [All SVG](https://github.com/reduxframework/elusive-icons/tree/master/dev/icons-svg)
+
+### Tools
+- [Android Design](https://developer.android.com/design/downloads/index.html)
+- [Material Design](https://material.google.com/)
 
 ## PHP
 - [20 Awesome Libraries - Summer 2k16](http://tutorialzine.com/2016/08/20-awesome-php-libraries-for-summer-2016/) - tutorialzine
@@ -34,21 +47,24 @@
 ### NPM
 - []()
 
-## Polyfill
+### Polyfill
 - [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
 ### jQuery & Co
-- Slider
-- Lightbox
-  - [chocolat.js](http://chocolat.insipi.de/)
+[See more](https://github.com/johannpinson/ABL/blob/master/javascript/js.md)
+
 
 ## HTML
+### Boilerplate
 - [HTML5 Boilerplate](https://html5boilerplate.com/) - The original
 - [Initializr](http://www.initializr.com/) - Another boilerplate
 - [HTLM5 UP!](https://html5up.net/) - Responsiveness
 
 ### Codrops
 - [2014 Best of](http://tympanus.net/codrops2014/)
+
+### Demo
+- [Product builder](https://codyhouse.co/gem/product-builder/) - `Codyhouse`
 
 
 ## CSS
@@ -59,6 +75,10 @@
 - [Responsive Multi-Level Menu](http://tympanus.net/Development/ResponsiveMultiLevelMenu/) - `Codrops`
 - [Text styles & hover effects](http://tympanus.net/Development/TextStylesHoverEffects/) - `Codrops`
 - [Burger menu animation SVG/CSS3](http://codepen.io/kyleHenwood/pen/Alayb)
+- [Ripple Click Effect](http://thecodeplayer.com/walkthrough/ripple-click-effect-google-material-design) - `Codeplayer`
+
+### SCSS
+- [Kube mixins](https://imperavi.com/kube/docs/mixins/)
 
 ### Usefull because useless
 - [print.css](http://printstylesheet.dbushell.com/) - Some kind of fun
@@ -73,8 +93,16 @@
 ## CMS
 - [Grav](https://getgrav.org/) - A Modern Flat-File CMS
 
+### WordPress
+- [10 tips to develop plugins](https://www.smashingmagazine.com/2011/03/ten-things-every-wordpress-plugin-developer-should-know/)
+
 
 ## Tools
+### Style guide generator
+- [Nucleus](https://holidaypirates.github.io/nucleus/index.html)
+- [Frontify](https://frontify.com/styleguide)
+- [Devbridge](http://livingstyleguide.devbridge.com/)
+
 ### Testing
 ### Performance
 ### Files
@@ -84,6 +112,4 @@
 
 @Todo :
 https://github.com/CodeTheory/__gulp4-postcss-example
-https://codyhouse.co/gem/product-builder/
-https://holidaypirates.github.io/nucleus/installation.html
-https://imperavi.com/kube/css/mixins/
+https://web.archive.org/web/20160303144445/http://www.utexas.edu/learn/designprocess/
