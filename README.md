@@ -100,6 +100,7 @@
 
 ## CSS
 - [drop-shadow](http://nicolasgallagher.com/css-drop-shadows-without-images/demo/)
+- [box-shadow rollover](http://abduzeedo.com/abdz-css-box-shadow-rollover-effect)
 - [shapes of css](https://css-tricks.com/examples/ShapesOfCSS/) - From `CSS-Tricks`
 - [3D Thumbnail hover effects](http://tympanus.net/Tutorials/3DHoverEffects/index2.html) - `Codrops`
 - [Morphing buttons concept](http://tympanus.net/Development/ButtonComponentMorph/) - `Codrops`
