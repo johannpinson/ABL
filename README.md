@@ -91,6 +91,9 @@
 - [Initializr](http://www.initializr.com/) - Another boilerplate
 - [HTLM5 UP!](https://html5up.net/) - Responsiveness
 
+### Free template
+- [Personal](http://graphicburger.com/personal-free-html-template/)
+
 ### Codrops
 - [2014 Best of](http://tympanus.net/codrops2014/)
 
@@ -145,5 +148,3 @@
 @Todo :
 https://github.com/CodeTheory/__gulp4-postcss-example
 https://web.archive.org/web/20160303144445/http://www.utexas.edu/learn/designprocess/
-http://flatuicolors.com/
-https://brandcolors.net/
