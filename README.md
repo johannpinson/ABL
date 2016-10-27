@@ -51,8 +51,11 @@
 - [Fontello](http://fontello.com/)
 - [Glyphicons](http://glyphicons.com/)
 - [Elusive Icons](http://elusiveicons.com/) - See [All SVG](https://github.com/reduxframework/elusive-icons/tree/master/dev/icons-svg)
-
 - [Awwwards GFonts](http://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html) - 20 Best Web Fonts from Google Web Fonts and @font-face
+
+### Photos
+- [Pexels](https://www.pexels.com/)
+- [Pixabay](https://pixabay.com/)
 
 ### Inspiration
 - [Eduardo Santos](https://dribbble.com/eduardo) - `Dribbble`
